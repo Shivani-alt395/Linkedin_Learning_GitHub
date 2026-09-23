@@ -1,4 +1,4 @@
-name: Generste Podcast Feeds
+name: Generate Podcast Feeds
 on: [push]
 jobs:
   build:
